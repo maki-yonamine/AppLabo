@@ -1,0 +1,22 @@
+﻿[環境セットアップ]
+* Java SE Development Kit 6 Update 45(Windows x64)
+http://www.oracle.com/technetwork/java/javase/downloads/jdk6downloads-1902814.html
+
+* ADT Bundle(AndroidSDKコンポーネントとADT(Android Developer Tools)をビルドインしたEclipse IDEが含まれたもの)
+http://developer.android.com/sdk/index.html
+
+* Eclipseの日本語化
+http://mergedoc.sourceforge.jp/
+
+* 必要に応じて追加コンポーネントをインストール
+** Google USB Driver
+** Intel x86 Emulator Accelerator(HAXM)
+
+* EGit
+** Eclipse から Git を操作するプラグイン
+
+参考サイト
+http://smartphone-zine.com/dokuwiki/android/020_development/0010_environment/0070_installdecember2012.html
+
+[Git入門]
+http://www.backlog.jp/git-guide/
