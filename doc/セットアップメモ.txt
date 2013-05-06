@@ -20,3 +20,14 @@ http://smartphone-zine.com/dokuwiki/android/020_development/0010_environment/007
 
 [Git入門]
 http://www.backlog.jp/git-guide/
+
+* Play Framework
+http://www.playframework.org/
+参考 http://libro.tuyano.com/index3?id=1044006&page=2
+
+* Scala
+http://www.scala-lang.org
+参考 http://bach.istc.kobe-u.ac.jp/lect/ProLang/org/scala.html
+
+* Scala IDE
+参考 http://libro.tuyano.com/index3?id=1044006&page=4
